@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+jrjgbrjg
+=======
+this is file 1
+>>>>>>> textFile
